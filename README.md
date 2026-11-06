@@ -42,25 +42,25 @@
 
 ## Карта направлений
 
-| Направление | Проектов | Ключевые технологии |
-|---|---:|---|
-| Веб-разработка и веб-приложения | ~35 | ASP.NET (Web Forms / MVC / Core), Blazor, Angular, Vue.js, SignalR, D3.js |
-| Интеграции и API | 2 | REST, Ozon API, 1С, Refit, YARP |
-| Сервисы | 1 | ASP.NET Core, SQLite, Swagger, планировщик |
-| Десктопные приложения | 68 | WPF, WinForms, WinUI/UWP, MAUI, CefSharp, Playwright |
-| Лаунчеры и игровые клиенты | 6 | WPF, автообновление, JWT, локализация, Inno Setup / WiX |
-| Парсеры и сбор данных | 63 | C#, Playwright, AngleSharp, HtmlAgilityPack, Selenium, прокси, капча |
-| Браузерные расширения | 31 | Chrome Extensions (MV2/MV3), TypeScript, Blazor, CefSharp |
-| Телеграм-боты и автоматизация | ~12 | Telegram Bot API, Telegram Client API, Google Sheets API |
-| Игры | 8 | Unity, C#, JavaScript, игровая логика и UI |
-| Курсовые и учебные | 23 | ASP.NET, WinForms, WPF, Delphi, БД (SQL Server, MySQL, Firebird) |
-| Магазины / e-commerce | 3 | ASP.NET Web Forms, XSLT, Firebird, WooCommerce |
-| 3D-графика и визуализация | 5 | Blender, FBX, моделирование и рендер |
-| Готовые продукты | 8 | WPF, WinForms, игры, шаблоны |
-| Личные проекты и эксперименты | 64 | WinAPI, автоматизация, боты, компьютерное зрение, игры |
-| Инфраструктура и инструменты | ~10 | .NET, шаблоны решений, утилиты |
-| CMS-платформы (изучение) | 12 | nopCommerce, Orchard Core, Kentico, BlogEngine.NET |
-| Сторонние примеры | 38 | Различные open-source проекты |
+| Направление | Ключевые технологии |
+|---|---|
+| Веб-разработка и веб-приложения | ASP.NET (Web Forms / MVC / Core), Blazor, Angular, Vue.js, SignalR, D3.js |
+| Интеграции и API | REST, Ozon API, 1С, Refit, YARP |
+| Сервисы и фоновые задачи | ASP.NET Core, SQLite, Swagger, планировщик |
+| Десктопные приложения | WPF, WinForms, WinUI/UWP, MAUI, CefSharp, Playwright |
+| Лаунчеры и игровые клиенты | WPF, автообновление, JWT, локализация, Inno Setup / WiX |
+| Парсеры и сбор данных | C#, Playwright, AngleSharp, HtmlAgilityPack, Selenium, прокси, капча |
+| Браузерные расширения | Chrome Extensions (MV2/MV3), TypeScript, Blazor, CefSharp |
+| Телеграм-боты и автоматизация | Telegram Bot API, Telegram Client API, Google Sheets API |
+| Игры | Unity, C#, JavaScript, игровая логика и UI |
+| Курсовые и учебные | ASP.NET, WinForms, WPF, Delphi, БД (SQL Server, MySQL, Firebird) |
+| Магазины / e-commerce | ASP.NET Web Forms, XSLT, Firebird, WooCommerce |
+| 3D-графика и визуализация | Blender, FBX, моделирование и рендер |
+| Готовые продукты | WPF, WinForms, игры, шаблоны |
+| Личные проекты и эксперименты | WinAPI, автоматизация, боты, компьютерное зрение, игры |
+| Инфраструктура и инструменты | .NET, шаблоны решений, утилиты |
+| CMS-платформы (изучение) | nopCommerce, Orchard Core, Kentico, BlogEngine.NET |
+| Сторонние примеры | Различные open-source проекты |
 
 ---
 
